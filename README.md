@@ -4,6 +4,25 @@ An information retrieval system for financial question answering, evaluated on t
 
 The complete implementation, stored outputs, evaluation workflow, and interactive Gradio interface are available in [`notebooks/fiqa_search_engine.ipynb`](notebooks/fiqa_search_engine.ipynb).
 
+## Project Information
+
+**Project type:** University group project
+
+**Team size:** 4
+
+**My role:**
+
+- Designed the evaluation methodology.
+- Defined the experimental framework.
+- Performed BM25 parameter tuning analysis.
+- Analysed retrieval performance.
+- Interpreted and documented the results.
+- Coordinated project milestones.
+
+The team built the complete retrieval system described in this repository, including the BM25 and dense-retrieval pipelines, FAISS indexing, evaluation workflow, and Gradio interface. The role listed above identifies my personal contribution within that shared work.
+
+This project was completed as part of a four-person university group. My primary contribution focused on evaluation design, experimental methodology, BM25 parameter tuning analysis, results interpretation, and project coordination.
+
 ![Overview of the BM25 and SBERT retrieval system](assets/diagrams/retrieval_system_overview.svg)
 
 ## Key Features
@@ -177,8 +196,6 @@ The accompanying project presentation provides a concise overview of the objecti
 
 - [`reports/presentation.pdf`](reports/presentation.pdf)
 
-## Author
+## Project Attribution
 
-**Aaron Gulzar**  
-MSc Data Science  
-Queen Mary University of London
+This repository documents work completed by a four-person university project team. Aaron Gulzar's personal contribution is described in the project information section above.
